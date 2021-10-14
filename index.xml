@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on Nastasia Saby, Autrice</title>
+    <link>https://nastasiasaby.github.io/</link>
+    <description>Recent content in Actualités on Nastasia Saby, Autrice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 11:11:11 +0100</lastBuildDate><atom:link href="https://nastasiasaby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine learning, concepts et enjeux</title>
+      <link>https://nastasiasaby.github.io/2021/10/12/machine-learning-concepts-et-enjeux/</link>
+      <pubDate>Tue, 12 Oct 2021 13:54:23 +0200</pubDate>
+      
+      <guid>https://nastasiasaby.github.io/2021/10/12/machine-learning-concepts-et-enjeux/</guid>
+      <description>Machine learning, concepts et enjeux (Editions ENI, vidéo)
+En tant que technologie d’intelligence artificielle, le Machine Learning est en plein essor, tant en entreprise que dans le domaine de la recherche.
+L’objectif de cette vidéo est de vous présenter les concepts du Machine Learning pour que vous soyez en mesure de les mettre en application dans une situation concrète.
+Dans un premier temps, vous vous familiariserez avec la définition de quelques termes incontournables avant d’aborder les principales raisons qui font que l’on peut avoir recours au Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>Mes ouvrages</title>
+      <link>https://nastasiasaby.github.io/ouvrages/</link>
+      <pubDate>Sun, 15 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>https://nastasiasaby.github.io/ouvrages/</guid>
+      <description>Machine learning, concepts et enjeux (Editions ENI, vidéo) 
+L’apprentissage automatique dans la vraie vie - Petit guide pour la mise en production (Autopublication, livre) 
+Un modèle de machine learning aussi puissant soit-il n’a aucune valeur s’il n’est pas en production.
+Le temps où l’apprentissage automatique était magique est dépassé. Ce qu’on veut aujourd’hui, ce sont des modèles en production qui apportent une plus-value.
+Ce livre est un guide pour mettre en production des modèles de machine learning.</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>https://nastasiasaby.github.io/propos/</link>
+      <pubDate>Sun, 01 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>https://nastasiasaby.github.io/propos/</guid>
+      <description>Ecrire, dit-elle (Marguerite Duras)
+ Villeurbannaise, je travaille pour la télé comme experte en machine learning, la forme actuelle la plus répandue en intelligence artificielle. Autrice pour les éditions ENI, j&amp;rsquo;aime partager mon savoir au plus grand nombre. J&amp;rsquo;ai notamment à coeur de vulgariser l&amp;rsquo;intelligence artificielle.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;apprentissage automatique dans la vraie vie</title>
+      <link>https://nastasiasaby.github.io/2021/08/01/lapprentissage-automatique-dans-la-vraie-vie/</link>
+      <pubDate>Sun, 01 Aug 2021 11:11:11 +0100</pubDate>
+      
+      <guid>https://nastasiasaby.github.io/2021/08/01/lapprentissage-automatique-dans-la-vraie-vie/</guid>
+      <description>L’apprentissage automatique dans la vraie vie - Petit guide pour la mise en production (Autopublication, livre)
+Un modèle de machine learning aussi puissant soit-il n’a aucune valeur s’il n’est pas en production.
+Le temps où l’apprentissage automatique était magique est dépassé. Ce qu’on veut aujourd’hui, ce sont des modèles en production qui apportent une plus-value.
+Ce livre est un guide pour mettre en production des modèles de machine learning.</description>
+    </item>
+    
+  </channel>
+</rss>
